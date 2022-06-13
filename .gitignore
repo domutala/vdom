@@ -1,0 +1,8 @@
+node_modules
+yarn.lock
+yarn.error
+
+firebase.json
+
+.vscode
+.env

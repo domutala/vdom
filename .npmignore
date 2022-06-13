@@ -1,0 +1,15 @@
+node_modules
+dist/index.html
+yarn.lock
+yarn.error
+yarn-error.log
+.vscode
+.env
+src
+.eslintrc.js
+.eslintignore
+.gitignore
+.prettierrc
+tsconfig.json
+webpack.config.js
+example
